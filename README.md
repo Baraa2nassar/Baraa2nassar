@@ -14,9 +14,9 @@
 
 
 ### Some Socials:
-[<img align="left" alt="Baraa2nassar | YouTube" width="30px" src="https://cdn-icons-png.flaticon.com/512/185/185983.png" />][youtube]
-[<img align="left" alt="Baraa2nassar | LinkedIn" width="30px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1641160372~hmac=4737b1ebaec3df2a718e6800023becf9" />][linkedin]
-[<img align="left" alt="Baraa2nassar | Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1641160289~hmac=fda7e5d57dd73d4e0671f0d6dc451f58" />][instagram]
+[<img align="left" alt="Baraa2nassar | YouTube" width="30px" src="https://cdn.discordapp.com/attachments/767632792950407179/928150170057736262/187209.png" />][youtube]
+[<img align="left" alt="Baraa2nassar | LinkedIn" width="30px" src="https://cdn.discordapp.com/attachments/767632792950407179/928150684140961802/1377213.png" />][linkedin]
+[<img align="left" alt="Baraa2nassar | Instagram" width="30px" src="https://media.discordapp.net/attachments/767632792950407179/928150883609481288/3670125.png" />][instagram]
 
 <br />
 
