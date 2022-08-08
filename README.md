@@ -10,7 +10,7 @@
 - 🍞 Loves software development, video editing, photography, and bread
 - 🕸 interested in backend and web development
 - 🥅 Aims to leave an impact through art and tech
-- 🎈 Fun fact: My birthday is a combination of the same number repeated (not counting 0)
+- 🎈 Fun fact: My name means innocent in Arabic
 
 
 ### Some Socials:
