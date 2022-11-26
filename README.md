@@ -6,7 +6,7 @@
 
 
 ## Who is Baraa? 
-- 💻 Computer Science Student at Montclair State University, Junior
+- 💻 Computer Science Student at Montclair State University, Senior
 - 🍞 Loves software development, video editing, photography, and bread
 - 🕸 interested in backend and web development
 - 🥅 Aims to leave an impact through art and tech
