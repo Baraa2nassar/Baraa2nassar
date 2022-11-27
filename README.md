@@ -1,7 +1,7 @@
 # Baraa2nassar
  reamdMe_custom
 
-### Hello and welcome, My name is Baraa ✌ 
+### Hello and welcome, I'm Baraa ✌ 
 ![](https://komarev.com/ghpvc/?username=Baraa2nassar&color=blue) 
 
 
